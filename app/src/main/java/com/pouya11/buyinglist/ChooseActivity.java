@@ -27,7 +27,7 @@ public class ChooseActivity extends AppCompatActivity {
 
         dummy_list.add(new PhoneRecord(0, "chips", "mazmaz"));
         dummy_list.add(new PhoneRecord(0, "abmiveh", "sanich"));
-        
+
 
         lstPhone.setAdapter(new PhoneAdabtor(this, R.layout.list_buying, dummy_list));
 
