@@ -97,3 +97,5 @@ crashlytics-build.properties
 fabric.properties
 
 /.idea/
+/app/src/main/res/layout/list_buying.xml
+/app/src/main/res/drawable/btn_color.xml
